@@ -29,6 +29,7 @@
 	</scm>
 	<properties>
 		<java.version>11</java.version>
+        <sonar.organization>shalini6394</sonar.organization>
 	</properties>
 	<dependencies>
 
